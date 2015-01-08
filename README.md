@@ -10,3 +10,6 @@
 8. It's okay to leave the IP address section empty. Click 'create'
 9. Enter the newly created API key in config.ru where it says 'your-api-key'
 10. To run locally, run 'rackup config.ru' from the command line
+11. To host on heroku, follow the instructions here: https://devcenter.heroku.com/articles/rack#pure-rack-apps
+
+If you're using this with android-messaging-push-tutorial, **you can't host locally!**
